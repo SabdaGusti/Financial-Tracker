@@ -1,4 +1,4 @@
-# Financial Tracker (MVP)
+# Financial Tracker
 
 Aplikasi pencatatan keuangan manual (income, expense, transfer, adjustment)
 dibangun sesuai `Blueprint_Financial_Tracker_MVP.docx`.
