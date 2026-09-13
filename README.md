@@ -1,5 +1,7 @@
 # Financial Tracker
 
+![image alt](https://github.com/SabdaGusti/Financial-Tracker/blob/6874e1de35cc02367d17f555f29c488e4747dc13/presentation-financial-tracker.png)
+
 Aplikasi pencatatan keuangan manual (income, expense, transfer, adjustment)
 dibangun sesuai `Blueprint_Financial_Tracker_MVP.docx`.
 
