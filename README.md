@@ -20,3 +20,4 @@ npm run build
 npm run preview
 ```
 ## Mengunduh Aplikasi untuk android
+[Finan](https://github.com/SabdaGusti/Financial-Tracker/blob/main/financial-tracker-v1.6.apk)
