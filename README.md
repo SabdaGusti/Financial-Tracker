@@ -73,22 +73,5 @@ Data tersimpan di penyimpanan browser/aplikasi pada tiap perangkat. Data di HP, 
 APK **tidak saling sinkron**, dan menghapus data browser/aplikasi akan menghapus catatanmu.
 Fitur backup/ekspor belum tersedia.
 
-Aplikasi pencatatan keuangan manual (income, expense, transfer, adjustment). Database menggunakan IndexedDB via Dexie.js, sepenuhnya berjalan di browser atau aplikasi (tidak ada backend/server).
-
-## Menjalankan aplikasi di browser
-
-```bash
-npm install
-npm run dev
-```
-
-Buka `http://localhost:5173` di browser.
-
-## Build production
-
-```bash
-npm run build
-npm run preview
-```
 ## Mengunduh Aplikasi untuk android
 [Download Aplikasi](https://github.com/SabdaGusti/Financial-Tracker/blob/main/financial-tracker-v1.6.apk)
